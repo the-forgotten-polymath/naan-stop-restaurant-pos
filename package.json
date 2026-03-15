@@ -1,0 +1,42 @@
+{
+  "name": "naan-stop-website",
+  "version": "1.0.0",
+  "description": "Naan Stop Restaurant Website - Pure Vegetarian North Indian Food",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "restaurant",
+    "food",
+    "vegetarian",
+    "north-indian",
+    "naan",
+    "thali"
+  ],
+  "author": "Yash Kavaiya",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^12.0.0",
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.15.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
